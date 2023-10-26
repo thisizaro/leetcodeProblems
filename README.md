@@ -14,6 +14,7 @@ This repository contains solutions to various LeetCode problems. Each file in th
 8. [78(M).py](78(M).py) - Subsets (Medium)
 9. [9.py](9.py) - Palindrome Number
 10. [234.java](234.java) - Palindrome Linked List checker [CODE IN JAVA]
+11. [21.java](21.java) - Merge Two Sorted Linked List [CODE IN JAVA]
 
 ## Contributing
 
