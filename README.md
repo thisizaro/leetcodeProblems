@@ -1,7 +1,7 @@
 ## 🚀 LeetCode Problems
 
 This
-This repository contains solutions to various LeetCode problems. Each file in this repository corresponds to a specific LeetCode problem, and the solutions are implemented in Python. 🐍
+This repository contains solutions to various LeetCode problems. Each file in this repository corresponds to a specific LeetCode problem, and the solutions are implemented in Python🐍 and Java.
 ## Problem List
 
 1. [1108.py](1108.py) - Defanging an IP Address
