@@ -16,6 +16,7 @@ This repository contains solutions to various LeetCode problems. Each file in th
 10. [234.java](234.java) - Palindrome Linked List checker [CODE IN JAVA]
 11. [21.java](21.java) - Merge Two Sorted Linked List [CODE IN JAVA]
 12. [2.java](2.java) - Add Two Numbers #Linked List [CODE IN JAVA]
+13. [3.java](3.java) - Longest substring without repeating characters [CODE IN JAVA]
 
 ## Contributing
 
